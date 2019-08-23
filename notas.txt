@@ -43,3 +43,5 @@ http://www.rstudio.com
 
 
 Herramientas utiles para chatear con otras personas "Discord"
+
+Ya debo hacer el primer ejercicio
